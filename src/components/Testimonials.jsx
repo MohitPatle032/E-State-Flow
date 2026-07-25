@@ -143,7 +143,7 @@ export default function Testimonials() {
 
          <div className="max-w-5xl mx-auto px-6 relative z-10">
 
-            {/* Header Layout Module Section */}
+          {/* Header Layout Module Section */}
             {/* <div className="text-center mb-16 md:mb-24 space-y-4">
                <motion.h4
                   initial={{ opacity: 0, y: 10 }}
