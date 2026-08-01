@@ -7,6 +7,7 @@ import FeaturedProperties from  "../components/FeaturedProperties";
 import WhyChooseUs from "../components/WhyChooseUs";
 import Testimonials from "../components/Testimonials";
 import Contact_Action from "../components/Contact_Action";
+import Footer from "../components/Footer";
 
 
 
@@ -19,6 +20,7 @@ function Home() {
       <WhyChooseUs/>
       <Testimonials/>
       <Contact_Action/>
+      <Footer/>
 
 
     </>
