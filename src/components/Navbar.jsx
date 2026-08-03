@@ -63,8 +63,6 @@ function Navbar() {
           <NavLink to="/about"  className="border border-transparent text-gray-300 rounded-lg p-2 px-4 transition-all duration-300 ease-out hover:border-cyan-500 hover:bg-cyan-500/10 hover:text-cyan-400 hover:shadow-[0_0_15px_rgba(6,182,212,0.15)]">About</NavLink>
 
 
-          <NavLink to="/Buy"  className="border border-transparent text-gray-300 rounded-lg p-2 px-4 transition-all duration-300 ease-out hover:border-cyan-500 hover:bg-cyan-500/10 hover:text-cyan-400 hover:shadow-[0_0_15px_rgba(6,182,212,0.15)]">Buy</NavLink>
-
           <NavLink to="/sell" className="border border-transparent text-gray-300 rounded-lg p-2 px-4 transition-all duration-300 ease-out hover:border-cyan-500 hover:bg-cyan-500/10 hover:text-cyan-400 hover:shadow-[0_0_15px_rgba(6,182,212,0.15)]">Sell</NavLink>
 
           <NavLink to="/Properties"  className="border border-transparent text-gray-300 rounded-lg p-2 px-4 transition-all duration-300 ease-out hover:border-cyan-500 hover:bg-cyan-500/10 hover:text-cyan-400 hover:shadow-[0_0_15px_rgba(6,182,212,0.15)]">Properties</NavLink>

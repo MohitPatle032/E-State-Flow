@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 
 import Home from "./Pages/Home";
 import About from "./Pages/About";
-import Buy from "./Pages/Buy";
+
 import Sell from "./Pages/Sell";
 import Contact from "./Pages/Contact";
 import Properties from "./Pages/Properties";
@@ -30,7 +30,7 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/Sell" element={<Sell />} />
-        <Route path="/Buy" element={<Buy />} />
+
         <Route path="/Properties" element={<Properties />} />
         <Route path="/PropertyDetails" element={<PropertyDetails />} />
 

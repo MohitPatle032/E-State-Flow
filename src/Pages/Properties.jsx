@@ -1,10 +1,13 @@
-function NotFound(){
+import Herosec from "../ProComponents/Herosec";
+
+function Properties(){
    return(
       <>
-      <h1>Hello4512</h1>
+   
+      <Herosec/>
 
       </>
    )
 };
 
-export default NotFound;
+export default Properties;
